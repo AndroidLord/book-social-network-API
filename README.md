@@ -66,4 +66,4 @@ The **Book Social Network API** is a comprehensive platform designed for book di
 - **Architecture**: MVC (Model-View-Controller)
 - **File Handling**: Multipart file handling for book cover uploads
 
-This project provides a robust framework for managing a social network for book distribution, with a focus on secure access, detailed record-keeping, and user interaction.
+---
