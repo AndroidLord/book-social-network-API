@@ -55,7 +55,7 @@ The **Book Social Network API** is a comprehensive platform designed for book di
    - **Exception Handlers**: Manage exceptions gracefully across the application.
    - **Filter for Unauthenticated Access**: Registration and authentication endpoints are accessible without JWT verification.
 
-### Technical Stack
+## Technical Stack
 
 - **Backend Framework**: Spring Boot
 - **Data Persistence**: Spring JPA (Java Persistence API)
